@@ -2,6 +2,10 @@
 
 **Powered by Camel AI** - A personalized, adaptive study plan generator that creates intelligent 7-day schedules with micro-tasks, progress tracking, and gamification.
 
+---
+[Demo Link](https://drive.google.com/file/d/1E-1dUo7jvAgyaujoUwURBoBqBFKyPOPQ/view?usp=sharing)
+
+
 ## 🎯 Mission
 
 An AI-powered study planner that:
