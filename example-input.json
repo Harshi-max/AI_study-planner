@@ -1,0 +1,39 @@
+{
+  "student": {
+    "name": "Aman",
+    "college": "XYZ Institute",
+    "branch": "CSE",
+    "year": 2026,
+    "email": "aman@example.com"
+  },
+  "subjects": [
+    {
+      "name": "Data Structures",
+      "credits": 4,
+      "strong": ["Arrays", "Linked Lists"],
+      "weak": ["Trees", "Graphs"],
+      "confidence": 3
+    },
+    {
+      "name": "Operating Systems",
+      "credits": 3,
+      "strong": ["Processes", "Threads"],
+      "weak": ["Deadlocks", "Memory Management"],
+      "confidence": 2
+    },
+    {
+      "name": "Engineering Mathematics",
+      "credits": 4,
+      "strong": ["Differential Equations"],
+      "weak": ["Laplace Transform"],
+      "confidence": 3
+    }
+  ],
+  "availability": {
+    "weekdays": 3,
+    "weekends": 6,
+    "preferredTime": "Night"
+  },
+  "targetDate": "2026-03-15"
+}
+
